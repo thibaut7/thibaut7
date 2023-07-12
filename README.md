@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Heys guys 👋
+Je suis Thibaut K. BASSA, ingénieur en Intelligence artificielle et Big data 
 <!--
 **thibaut7/thibaut7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
