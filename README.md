@@ -1,5 +1,5 @@
 ### Heys guys 👋
-I'm BASSA K. Thibaut ingineer in IA and Big Data
+I'm Thibaut K. BASSA engineer in IA and Big Data
 
 -🔭 I’m currently working on data engineering and LLM projects
 - 🌱 I’m currently deeping my knowledge in data engineering and LLM
